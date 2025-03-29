@@ -11,13 +11,13 @@ Purpose
 
 The primary goal of this repository is to:
 
--   Provide structured information about university events.
+- Provide structured information about university events.
 
--   Ensure proper coordination between organizing teams and participants.
+- Ensure proper coordination between organizing teams and participants.
 
--   Maintain transparency regarding event schedules, guidelines, and participation criteria.
+- Maintain transparency regarding event schedules, guidelines, and participation criteria.
 
--   Streamline communication for better event execution.
+- Streamline communication for better event execution.
 
 Sections
 --------
@@ -34,11 +34,18 @@ General information about the university's events, objectives, and how they cont
 
 #### - Arena (Gaming & Esports)
 
+Official Event Websites
+-----------------------
 
+- [GU Fest](https://gu-tech.org/)
+
+- [Jazba 2K25](https://jazba.gu-tech.org/)
+
+- [TechXtreme 2K25](https://techxtreme.gu-tech.org/)
 
 Contact Information
 -------------------
 
 For further inquiries, reach out to:
 
--   **Official Email:** tech@gandhinagaruni.ac.in
+- **Official Email:** <tech@gandhinagaruni.ac.in>
